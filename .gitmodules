@@ -1,0 +1,4 @@
+[submodule "pciids"]
+	path = pciids
+	url = https://github.com/pciutils/pciids.git
+	branch = master
