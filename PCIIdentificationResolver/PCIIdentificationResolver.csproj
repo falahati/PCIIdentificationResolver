@@ -3,7 +3,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net4</TargetFrameworks>    
-    <Version>2.19.322.4</Version>
+    <Version>2.19.322.5</Version>
     <Company>falahati.net</Company>
     <Description>PCI Identification Resolver is a library containing the list of known PCI vendors, devices and other related information for .Net</Description>
     <Authors>Soroush Falahati</Authors>
